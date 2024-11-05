@@ -6,7 +6,7 @@
 
 Literally the only sane way, if not the fastest one, to extend the `Function` class **without evaluation**.
 
-```js
+```javascript
 // const CustomFunction = require('custom-function');
 import CustomFunction from 'custom-function';
 
